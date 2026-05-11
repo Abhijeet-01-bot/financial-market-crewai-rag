@@ -1,0 +1,25 @@
+WEB-SOURCED RISK COMMENTARY
+Generated on: 2026-05-11 08:55:42
+Source: Yahoo Finance historical prices via yfinance
+================================================================================
+
+Volatility Ranking:
+INFY.NS | Sector: Information Technology | Volatility: 25.02% | Risk Level: Medium | One-year Return: -25.39%
+MARUTI.NS | Sector: Automobile | Volatility: 23.14% | Risk Level: Medium | One-year Return: 8.55%
+SBIN.NS | Sector: Banking | Volatility: 21.95% | Risk Level: Medium | One-year Return: 24.61%
+TCS.NS | Sector: Information Technology | Volatility: 21.73% | Risk Level: Medium | One-year Return: -31.4%
+HINDUNILVR.NS | Sector: FMCG | Volatility: 20.07% | Risk Level: Medium | One-year Return: -1.4%
+RELIANCE.NS | Sector: Energy / Conglomerate | Volatility: 19.74% | Risk Level: Medium | One-year Return: -2.13%
+ITC.NS | Sector: FMCG | Volatility: 18.98% | Risk Level: Medium | One-year Return: -26.7%
+HDFCBANK.NS | Sector: Banking | Volatility: 18.62% | Risk Level: Medium | One-year Return: -20.12%
+ICICIBANK.NS | Sector: Banking | Volatility: 17.85% | Risk Level: Low | One-year Return: -11.45%
+
+Portfolio Risk Interpretation:
+Stocks with higher annualized volatility may increase portfolio drawdown risk. A portfolio concentrated in one sector may face concentration risk. Diversification across banking, IT, FMCG, automobile, and energy sectors can reduce overall exposure.
+
+Risk Appetite Mapping:
+Low-risk investors may prefer lower-volatility large-cap and defensive-sector exposure.
+Medium-risk investors may combine large-cap stocks, index exposure, and selected sector allocation.
+High-risk investors may accept higher volatility and larger equity exposure, but may face larger drawdowns.
+
+Disclaimer: This risk commentary is generated for educational purposes only and is not financial advice.

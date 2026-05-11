@@ -1,0 +1,96 @@
+WEB-SOURCED HISTORICAL STOCK DATA
+Generated on: 2026-05-11 08:55:33
+Source: Yahoo Finance via yfinance
+================================================================================
+
+Ticker: RELIANCE.NS
+Sector: Energy / Conglomerate
+One-year starting price: 1430.79
+Latest price: 1400.5
+One-year return: -2.12%
+Annualized volatility: 19.74%
+One-year high: 1592.3
+One-year low: 1304.6
+Calculated risk level based on volatility: Medium
+
+Ticker: HDFCBANK.NS
+Sector: Banking
+One-year starting price: 965.55
+Latest price: 771.3
+One-year return: -20.12%
+Annualized volatility: 18.62%
+One-year high: 1012.9
+One-year low: 731.55
+Calculated risk level based on volatility: Medium
+
+Ticker: ICICIBANK.NS
+Sector: Banking
+One-year starting price: 1437.41
+Latest price: 1272.8
+One-year return: -11.45%
+Annualized volatility: 17.85%
+One-year high: 1477.2
+One-year low: 1205.9
+Calculated risk level based on volatility: Low
+
+Ticker: SBIN.NS
+Sector: Banking
+One-year starting price: 785.87
+Latest price: 979.6
+One-year return: 24.65%
+Annualized volatility: 21.95%
+One-year high: 1227.8
+One-year low: 784.94
+Calculated risk level based on volatility: Medium
+
+Ticker: INFY.NS
+Sector: Information Technology
+One-year starting price: 1580.14
+Latest price: 1179.1
+One-year return: -25.38%
+Annualized volatility: 25.02%
+One-year high: 1689.8
+One-year low: 1152.1
+Calculated risk level based on volatility: Medium
+
+Ticker: TCS.NS
+Sector: Information Technology
+One-year starting price: 3499.46
+Latest price: 2401.6
+One-year return: -31.37%
+Annualized volatility: 21.73%
+One-year high: 3499.46
+One-year low: 2356.0
+Calculated risk level based on volatility: Medium
+
+Ticker: ITC.NS
+Sector: FMCG
+One-year starting price: 418.84
+Latest price: 306.95
+One-year return: -26.71%
+Annualized volatility: 18.98%
+One-year high: 425.96
+One-year low: 287.7
+Calculated risk level based on volatility: Medium
+
+Ticker: HINDUNILVR.NS
+Sector: FMCG
+One-year starting price: 2339.32
+Latest price: 2306.2
+One-year return: -1.42%
+Annualized volatility: 20.07%
+One-year high: 2671.6
+One-year low: 2052.2
+Calculated risk level based on volatility: Medium
+
+Ticker: MARUTI.NS
+Sector: Automobile
+One-year starting price: 12480.91
+Latest price: 13554.0
+One-year return: 8.6%
+Annualized volatility: 23.13%
+One-year high: 17292.0
+One-year low: 11996.16
+Calculated risk level based on volatility: Medium
+
+Data unavailable for TATAMOTORS.NS.

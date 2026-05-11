@@ -1,0 +1,13 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+.gitignore
+.DS_Store
+evaluation_results/
+requirements_freeze.txt
+*.log
+.cache/
+.ipynb_checkpoints/

@@ -1,0 +1,44 @@
+WEB-SOURCED STOCK NEWS
+Generated on: 2026-05-11 08:55:32
+Source: Yahoo Finance news via yfinance
+================================================================================
+
+Ticker: RELIANCE.NS
+Sector: Energy / Conglomerate
+No recent news items available from yfinance for this ticker.
+
+Ticker: HDFCBANK.NS
+Sector: Banking
+No recent news items available from yfinance for this ticker.
+
+Ticker: ICICIBANK.NS
+Sector: Banking
+No recent news items available from yfinance for this ticker.
+
+Ticker: SBIN.NS
+Sector: Banking
+No recent news items available from yfinance for this ticker.
+
+Ticker: INFY.NS
+Sector: Information Technology
+No recent news items available from yfinance for this ticker.
+
+Ticker: TCS.NS
+Sector: Information Technology
+No recent news items available from yfinance for this ticker.
+
+Ticker: ITC.NS
+Sector: FMCG
+No recent news items available from yfinance for this ticker.
+
+Ticker: HINDUNILVR.NS
+Sector: FMCG
+No recent news items available from yfinance for this ticker.
+
+Ticker: MARUTI.NS
+Sector: Automobile
+No recent news items available from yfinance for this ticker.
+
+Ticker: TATAMOTORS.NS
+Sector: Automobile
+No recent news items available from yfinance for this ticker.

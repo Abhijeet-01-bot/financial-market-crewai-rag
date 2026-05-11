@@ -1,0 +1,22 @@
+WEB-SOURCED MARKET REPORTS
+Generated on: 2026-05-11 08:55:30
+Source: Yahoo Finance via yfinance historical market data
+================================================================================
+
+Market Index: NIFTY 50 (^NSEI)
+One-year starting price: 24924.7
+Latest price: 23940.85
+One-year return: -3.95%
+Annualized volatility: 12.81%
+One-year high: 26328.55
+One-year low: 22331.4
+Market interpretation: The NIFTY 50 showed a mixed or neutral trend over the last one year based on price return and volatility.
+
+Market Index: BSE Sensex (^BSESN)
+One-year starting price: 82429.9
+Latest price: 76514.6
+One-year return: -7.18%
+Annualized volatility: 12.9%
+One-year high: 85762.01
+One-year low: 71947.55
+Market interpretation: The BSE Sensex showed a negative trend over the last one year based on price return and volatility.
