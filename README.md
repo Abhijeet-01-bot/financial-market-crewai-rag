@@ -69,3 +69,84 @@ CrewAI Multi-Agent Workflow
    |
    v
 Final Educational Financial Intelligence Response
+
+---
+
+## Project Structure
+
+financial-market-crewai-rag/
+│
+├── api/
+│   ├── __init__.py
+│   ├── app.py
+│   └── schemas.py
+│
+├── crew/
+│   ├── __init__.py
+│   ├── agents.py
+│   ├── crew_runner.py
+│   ├── tasks.py
+│   └── tools.py
+│
+├── data/
+│   ├── raw/
+│   │   ├── market_reports.txt
+│   │   ├── stock_news.txt
+│   │   ├── historical_data.txt
+│   │   ├── sector_outlook.txt
+│   │   └── risk_commentary.txt
+│   └── processed/
+│
+├── feedback/
+│
+├── saved_outputs/
+│   └── agentic_answer_1.txt
+│
+├── src/
+│   ├── __init__.py
+│   ├── baseline_rag.py
+│   ├── data_loader.py
+│   ├── evaluation.py
+│   ├── evaluation_offline.py
+│   ├── feedback.py
+│   ├── fetch_web_financial_data.py
+│   ├── hybrid_retriever.py
+│   ├── rag_pipeline.py
+│   ├── retrieval_validation.py
+│   ├── retraining_trigger.py
+│   └── vector_store.py
+│
+├── streamlit_app/
+│   ├── main.py
+│   └── test.py
+│
+├── tests/
+│   ├── test_api.py
+│   └── test_retriever.py
+│
+├── vectorstore/
+│   └── faiss_index/
+│       ├── index.faiss
+│       └── index.pkl
+│
+├── .github/
+│   └── workflows/
+│       └── ci_cd.yml
+│
+├── .dockerignore
+├── .gitignore
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+├── requirements_docker.txt
+├── requirements_freeze.txt
+└── README.md
+
+---
+
+
+
+
+
+
+
